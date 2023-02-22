@@ -22,7 +22,8 @@ No_Show: if the patient showed up for the appointment or not
 ## Question(s) for Analysis
 The main question would be to check if the selected features affect patient liklihood to sho up for their appointment. Other questions that will lead to the answer of the main question are:
 
-Which gender is likely to show up more for their appointment?
-What is the relationship between waiting period and patient showing up for appointment?
-Do patient who received sms showed up for their appointment?
-what is the age range of patient who showup for their apointment?
+1. Which gender is likely to show up more for their appointment?
+
+2. What is the relationship between waiting period and patient showing up for appointment?
+3. Do patient who received sms showed up for their appointment?
+4. what is the age range of patient who showup for their apointment?
